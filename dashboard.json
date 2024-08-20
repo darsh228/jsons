@@ -3,108 +3,108 @@
     "gridlist": [
       {
         "god_name": "ગણપતિ",
-        "god_image": "/images/lord_ganpati.jpeg",
+        "god_image": "/images/lord_ganesha.png",
         "key": "ganpati"
       },
       {
-        "god_name": "વિશ્વકર્મા",
-        "god_image": "/images/lord_vishwakarma.png",
-        "key": "shiva"
+        "god_name": "મહાદેવ",
+        "god_image": "/images/lord_mahadev.png",
+        "key": "mahadev"
+      },
+      {
+        "god_name": "હનુમાન",
+        "god_image": "/images/lord_hanuman.png",
+        "key": "hanuman"
+      },
+      {
+        "god_name": "વિષ્ણુ",
+        "god_image": "/images/lord_vishnu.png",
+        "key": "vishnu"
+      },
+      {
+        "god_name": "અંબા માં",
+        "god_image": "/images/maa_amba.png",
+        "key": "amba"
+      },
+      {
+        "god_name": "લક્ષ્મી માં",
+        "god_image": "/images/maa_laxmi.png",
+        "key": "laxmi"
+      },
+      {
+        "god_name": "શ્રી કૃષ્ણ",
+        "god_image": "/images/lord_krishna.png",
+        "key": "krishna"
+      },
+      {
+        "god_name": "શ્રી રામ",
+        "god_image": "/images/lord_ram.png",
+        "key": "ram"
+      },
+      {
+        "god_name": "ચામુંડા માં",
+        "god_image": "/images/maa_chamunda.png",
+        "key": "chamunda"
+      },
+      {
+        "god_name": "ખોડિયાર માં",
+        "god_image": "/images/maa_khodiyar.png",
+        "key": "khodiyar"
+      },
+      {
+        "god_name": "પાર્વતી માં",
+        "god_image": "/images/maa_parvati.png",
+        "key": "parvati"
+      },
+      {
+        "god_name": "સરસ્વતી માં",
+        "god_image": "/images/maa_sarasvati.png",
+        "key": "sarasvati"
+      },
+      {
+        "god_name": "ગાયત્રી માં",
+        "god_image": "/images/maa_gayatri.png",
+        "key": "gayatri"
+      },
+      {
+        "god_name": "ગંગા માં",
+        "god_image": "/images/maa_ganga.png",
+        "key": "ganga"
       },
       {
         "god_name": "શનિદેવ",
         "god_image": "/images/lord_shanidev.png",
-        "key": "krishna"
+        "key": "shanidev"
+      },
+      {
+        "god_name": "વિશ્વકર્મા",
+        "god_image": "/images/lord_vishwakarma.png",
+        "key": "vishvakarma"
+      },
+      {
+        "god_name": "સંતોષી માં",
+        "god_image": "/images/maa_santoshi.png",
+        "key": "santoshi"
+      },
+      {
+        "god_name": "મહાકાળી માં",
+        "god_image": "/images/maa_mahakali.png",
+        "key": "mahakali"
+      },
+      {
+        "god_name": "સ્વામિનારાયણ",
+        "god_image": "/images/lord_swaminarayan.png",
+        "key": "swaminarayan"
       },
       {
         "god_name": "સાંઈ બાબા",
         "god_image": "/images/lord_sai.png",
-        "key": "ram"
+        "key": "saibaba"
       },
       {
-        "god_name": "ગણપતિ",
-        "god_image": "/images/lord_ganpati.jpeg",
-        "key": "ram"
-      },
-      {
-        "god_name": "ગણપતિ",
-        "god_image": "/images/lord_ganpati.jpeg",
-        "key": "ram"
-      },
-      {
-        "god_name": "ગણપતિ",
-        "god_image": "/images/lord_ganpati.jpeg",
-        "key": "ram"
-      },
-      {
-        "god_name": "ગણપતિ",
-        "god_image": "/images/lord_ganpati.jpeg",
-        "key": "ram"
-      },
-      {
-        "god_name": "ગણપતિ",
-        "god_image": "/images/lord_ganpati.jpeg",
-        "key": "ram"
-      },
-      {
-        "god_name": "ગણપતિ",
-        "god_image": "/images/lord_ganpati.jpeg",
-        "key": "ram"
-      },
-      {
-        "god_name": "ગણપતિ",
-        "god_image": "/images/lord_ganpati.jpeg",
-        "key": "ram"
-      },
-      {
-        "god_name": "ગણપતિ",
-        "god_image": "/images/lord_ganpati.jpeg",
-        "key": "ram"
-      },
-      {
-        "god_name": "ગણપતિ",
-        "god_image": "/images/lord_ganpati.jpeg",
-        "key": "ram"
-      },
-      {
-        "god_name": "ગણપતિ",
-        "god_image": "/images/lord_ganpati.jpeg",
-        "key": "ram"
-      },
-      {
-        "god_name": "ગણપતિ",
-        "god_image": "/images/lord_ganpati.jpeg",
-        "key": "ram"
-      },
-      {
-        "god_name": "ગણપતિ",
-        "god_image": "/images/lord_ganpati.jpeg",
-        "key": "ram"
-      },
-      {
-        "god_name": "ગણપતિ",
-        "god_image": "/images/lord_ganpati.jpeg",
-        "key": "ram"
-      },
-      {
-        "god_name": "ગણપતિ",
-        "god_image": "/images/lord_ganpati.jpeg",
-        "key": "ram"
-      },
-      {
-        "god_name": "ગણપતિ",
-        "god_image": "/images/lord_ganpati.jpeg",
-        "key": "ram"
-      },
-      {
-        "god_name": "ગણપતિ",
-        "god_image": "/images/lord_ganpati.jpeg",
-        "key": "ram"
-      },
-      {
-        "god_name": "ગણપતિ",
-        "god_image": "/images/lord_ganpati.jpeg",
-        "key": "ram"
+        "god_name": "દત્તાત્રેય",
+        "god_image": "/images/lord_dattatreya.png",
+        "key": "dattatreya"
       }
     ]
   }
