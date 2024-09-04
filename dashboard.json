@@ -52,11 +52,6 @@
         "key": "khodiyar"
       },
       {
-        "god_name": "સરસ્વતી માં",
-        "god_image": "/images/maa_sarasvati.png",
-        "key": "sarasvati"
-      },
-      {
         "god_name": "ગાયત્રી માં",
         "god_image": "/images/maa_gayatri.png",
         "key": "gayatri"
@@ -80,11 +75,6 @@
         "god_name": "સંતોષી માં",
         "god_image": "/images/maa_santoshi.png",
         "key": "santoshi"
-      },
-      {
-        "god_name": "મહાકાળી માં",
-        "god_image": "/images/maa_mahakali.png",
-        "key": "mahakali"
       },
       {
         "god_name": "સ્વામિનારાયણ",
